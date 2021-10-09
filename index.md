@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# Termos e Condições do Formulário
 
-You can use the [editor on GitHub](https://github.com/guivl/terms/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/guivl/terms/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Ao clicar em "Eu concordo com os termos", você concorda com os termos e condições deste Acordo ("Termos"). Por favor, note que este Acordo está sujeito a alteração sem qualquer notificação (exceto diante de uma notificação requerida por lei). Ao preencher este questionário online, você concorda em estar legalmente vinculado a estes termos, que entrarão em vigor imediatamente.
+2. Você concorda que o responsável pelo formulário ("Responsável") pode coletar, processar (que deve ter o significado atribuído na definição de "processamento" na Lei Geral de Proteção de Dados (LGPD)), usar e armazenar suas informações pessoais (incluindo informações pessoais especiais) para fins de (i) análises dos dados e emissão de relatórios, (ii) fornecer informações sobre a gama de serviços e produtos do Responsável, (iii) realizar e gerenciar suas operações comerciais, (iv) fornecer aconselhamento profissional, e (v) quaisquer fins comerciais legítimos ou outras atividades conduzidas pelo Responsável de tempos em tempos . 
+3. Você garante que o consentimento de qualquer outro titular de dados cujas informações pessoais sejam divulgadas ao Responsável por você nos termos deste Acordo foi obtido ou que você está, de outra forma, respaldado por lei para divulgar tais informações ao Responsável. Você ainda garante e se compromete a informar imediatamente (i) de quaisquer alterações nas informações pessoais fornecidas por você, a fim de manter os dados precisos, (ii) se qualquer titular dos dados retirar qualquer consentimento dado anteriormente e / ou (iii) se o Responsável por qualquer outro motivo, deixará de ter o direito de processar legalmente as informações pessoais do titular dos dados. Você concorda em manter o Responsável ou todos os seus conselheiros ou quaisquer outros funcionários por ele contratado, respectivamente, inocentes e indenizados contra toda e qualquer perda, dano, custos (incluindo custas judiciais por advogado e cliente), encargos, penalidades , multas, juros, despesas que possam ser incorridas ou suportadas pelo Responsável e / ou qualquer uma ou mais das pessoas acima mencionadas como resultado da violação das garantias acima mencionadas ou do não cumprimento de qualquer uma de suas obrigações em termos de LGPD ou qualquer outro legislação ou regulamentação de proteção de dados aplicável.
+4. Você entende e concorda que as informações pessoais podem, em circunstâncias apropriadas, residir e ser processadas fora do Brasil e você concorda que uma empresa ou entidade agindo em nome do Responsável terá o direito de transferir e processar informações pessoais através das fronteiras do país para tais locais fora do Brasil.
+5. Você concorda que o Responsável terá o direito de reter as informações pessoais por um período mínimo de 5 anos, após o qual, sujeito ao que é estabelecido a seguir, as informações pessoais serão destruídas de acordo com as disposições da LGPD. Você concorda que o Responsável terá, no entanto, o direito de estender o período durante o qual as informações pessoais são retidas (i) se isso for exigido ou autorizado por lei, (ii) o Responsável razoavelmente requer as informações por um período mais longo para fins legais relacionados às suas atividades ou funções, (iii) ou para fins estatísticos ou de pesquisa (sujeito às salvaguardas apropriadas).
+6. O Responsável não será penalizado perante os usuários em relação a qualquer perda ou dano (incluindo perda conseqüencial ou inconseqüente) que possa ser sofrido ou incorrido ou que possa surgir direta ou indiretamente por causa dos serviços fornecidos pelo Responsável.
+7. O Responsável não será penalizado por quaisquer perdas causadas pelo não preenchimento do questionário.
+8. Os usuários garantem que todas as informações fornecidas por eles no questionário são precisas e não violam as leis ou os direitos de qualquer pessoa.
